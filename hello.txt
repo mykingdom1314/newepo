@@ -1,2 +1,2 @@
-hello world!
+hello world!  222222
 第一次用vim添加文件
